@@ -1,0 +1,7 @@
+C:\Users\W\source\repos\dragonis\dragonis\bin\Release\dragonis.exe.config
+C:\Users\W\source\repos\dragonis\dragonis\bin\Release\dragonis.exe
+C:\Users\W\source\repos\dragonis\dragonis\bin\Release\dragonis.pdb
+C:\Users\W\source\repos\dragonis\dragonis\obj\Release\dragonis.csprojAssemblyReference.cache
+C:\Users\W\source\repos\dragonis\dragonis\obj\Release\dragonis.csproj.CoreCompileInputs.cache
+C:\Users\W\source\repos\dragonis\dragonis\obj\Release\dragonis.exe
+C:\Users\W\source\repos\dragonis\dragonis\obj\Release\dragonis.pdb

@@ -1,0 +1,7 @@
+C:\Users\W\source\repos\dragonis\dragonis\bin\Release\precuria.exe.config
+C:\Users\W\source\repos\dragonis\dragonis\bin\Release\precuria.exe
+C:\Users\W\source\repos\dragonis\dragonis\bin\Release\precuria.pdb
+C:\Users\W\source\repos\dragonis\dragonis\obj\Release\precuria.csprojAssemblyReference.cache
+C:\Users\W\source\repos\dragonis\dragonis\obj\Release\precuria.csproj.CoreCompileInputs.cache
+C:\Users\W\source\repos\dragonis\dragonis\obj\Release\precuria.exe
+C:\Users\W\source\repos\dragonis\dragonis\obj\Release\precuria.pdb
